@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poureA
-- 👀 I’m interested in machine-learning
-- 🌱 I’m currently learning machine-learning
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 pooria9100@gmail.com
 
